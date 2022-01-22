@@ -2,7 +2,7 @@
   "name": "font-pingfang-sc",
   "version": "1.0.4",
   "description": "",
-  "main": "index.css",
+  "main": "index.js",
   "scripts": {},
   "keywords": [
     "pingfang-sc",
