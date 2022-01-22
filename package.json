@@ -1,10 +1,13 @@
 {
   "name": "font-pingfang-sc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.css",
   "scripts": {},
-  "keywords": ["pingfang-sc","woff2"],
+  "keywords": [
+    "pingfang-sc",
+    "woff2"
+  ],
   "author": "moneko",
   "license": "ISC",
   "files": [
