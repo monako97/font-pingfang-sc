@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "PingFangSC-Light";
+    src: url('./PingFangSC-Light.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PingFangSC-Medium';
+    src: url('./PingFangSC-Medium.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PingFangSC-Regular';
+    src: url('./PingFangSC-Regular.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PingFangSC-Semibold';
+    src: url('./PingFangSC-Semibold.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PingFangSC-Thin';
+    src: url('./PingFangSC-Thin.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PingFangSC-Ultralight';
+    src: url('./PingFangSC-Ultralight.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
