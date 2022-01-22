@@ -1,5 +1,7 @@
 # font-pingfang-sc
 
+> 苹方字体 woff2
+
 #### 安装
 ```shell
 npm i font-pingfang-sc -S
