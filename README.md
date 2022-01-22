@@ -1,6 +1,6 @@
 # font-pingfang-sc
 
-> 苹方字体 woff2
+> 苹方简 woff2
 
 #### 安装
 ```shell
